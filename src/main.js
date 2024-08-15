@@ -1,3 +1,5 @@
+'use strict'
+
 //Applying dark styling to header when scrolling down
 const header = document.querySelector('.header');
 const headerHeight = header.getBoundingClientRect().height; 
