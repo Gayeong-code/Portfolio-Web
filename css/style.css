@@ -28,6 +28,11 @@
   box-sizing: border-box;
 }
 
+html{
+  scroll-behavior: smooth;
+}
+
+
 body{
   font-family: "Playwrite DE Grund", cursive;
   margin: 0;
